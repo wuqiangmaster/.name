@@ -1,5 +1,5 @@
 # Java_Student_Management_System
- 学生管理系统
+ JAVA学生管理系统
 
  数据库配置：
  src\db.properties
